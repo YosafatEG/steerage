@@ -1,3 +1,9 @@
+### [11.0.0] BREAKING CHANGES
+
+- [Breaking] Drop support for node < 12.
+- Update Github test workflow to only test againt node v 14.x
+- Update dependencies, npm, and engines in package.json to support node version >= 14.
+
 # [10.0.0](https://github.com/expediagroup/steerage/compare/v9.0.1...v10.0.0) (2020-08-18)
 
 
