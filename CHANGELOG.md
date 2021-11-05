@@ -1,3 +1,18 @@
+# [12.0.0](https://github.com/expediagroup/steerage/compare/v11.1.0...v12.0.0) (2021-11-05)
+
+
+### Features
+
+* upgrade @vrbo/determination to V6.0.0 ([#32](https://github.com/expediagroup/steerage/issues/32)) ([d944eb1](https://github.com/expediagroup/steerage/commit/d944eb1029f88e4e766d50cbb73b921583c056b8))
+
+
+### BREAKING CHANGES
+
+* This updates @vrbo/determination from the range `^4.0.0` to
+`^6.0.0`. Please validate your dependencies on this can use this version and update as needed.
+
+Co-authored-by: aaestrada <v-aaestrada@expediagroup.com>
+
 # [11.1.0](https://github.com/expediagroup/steerage/compare/v11.0.1...v11.1.0) (2021-11-05)
 
 
