@@ -1,3 +1,15 @@
+# [11.1.0](https://github.com/expediagroup/steerage/compare/v11.0.1...v11.1.0) (2021-11-05)
+
+
+### Bug Fixes
+
+* **revert:** "upgrade @vrbo/determination to V6.0.0" ([637333e](https://github.com/expediagroup/steerage/commit/637333e430baea57da73556f1900f33c07b3d6c3))
+
+
+### Features
+
+* Revert changes from 11.0.1 ([0e785d1](https://github.com/expediagroup/steerage/commit/0e785d16fc5655b8f33ab95b1d6f357b9c1c3c6e))
+
 ### [11.1.0] Revert changes from 11.0.1
 - Changes are reverted and will be republished as a BREAKING change for 12.0.0
 
