@@ -1,3 +1,10 @@
+# [12.1.0](https://github.com/expediagroup/steerage/compare/v12.0.0...v12.1.0) (2021-12-07)
+
+
+### Features
+
+* exposes overrides and defaults from determination ([#33](https://github.com/expediagroup/steerage/issues/33)) ([07b1f0b](https://github.com/expediagroup/steerage/commit/07b1f0b32d71bbcdf1ae586d764d5c3f87ad3f7a))
+
 # [12.0.0](https://github.com/expediagroup/steerage/compare/v11.1.0...v12.0.0) (2021-11-05)
 
 
