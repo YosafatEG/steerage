@@ -1,3 +1,10 @@
+## [12.1.1](https://github.com/expediagroup/steerage/compare/v12.1.0...v12.1.1) (2021-12-10)
+
+
+### Bug Fixes
+
+* readme change to test semantic release ([#34](https://github.com/expediagroup/steerage/issues/34)) ([971559b](https://github.com/expediagroup/steerage/commit/971559b167008645e32a36dd423bfb42570ea0fa))
+
 # [12.1.0](https://github.com/expediagroup/steerage/compare/v12.0.0...v12.1.0) (2021-12-07)
 
 
