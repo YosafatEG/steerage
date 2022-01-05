@@ -1,3 +1,10 @@
+## [12.1.2](https://github.com/expediagroup/steerage/compare/v12.1.1...v12.1.2) (2022-01-05)
+
+
+### Bug Fixes
+
+* update readme to test actions ([0ee885f](https://github.com/expediagroup/steerage/commit/0ee885fe97565bc9df31c226ca5884ee3f4da90b))
+
 ## [12.1.1](https://github.com/expediagroup/steerage/compare/v12.1.0...v12.1.1) (2021-12-10)
 
 
