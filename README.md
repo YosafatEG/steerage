@@ -4,7 +4,7 @@
 
 Plugin for configuring and composing [Hapi](http://hapijs.com) servers through a configuration file or manifest.
 
-Supports environment-aware configuration and more using [`@vrbo/determination`](https://github.com/expediagroup/determination).
+Supports environment-aware configuration and more using [`@vrbo/determination`](https://github.com/expediagroup/determination)
 
 ### Usage
 
