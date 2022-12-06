@@ -1,3 +1,10 @@
+# [12.2.0](https://github.com/expediagroup/steerage/compare/v12.1.3...v12.2.0) (2022-12-06)
+
+
+### Features
+
+* empty commit to trigger release pipeline ([#44](https://github.com/expediagroup/steerage/issues/44)) ([795b1d2](https://github.com/expediagroup/steerage/commit/795b1d26b74b0e322c3e36ab99555a011607896a))
+
 ## [12.1.3](https://github.com/expediagroup/steerage/compare/v12.1.2...v12.1.3) (2022-01-11)
 
 ### Bug Fixes
