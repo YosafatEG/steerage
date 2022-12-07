@@ -1,3 +1,10 @@
+# [12.3.0](https://github.com/expediagroup/steerage/compare/v12.2.0...v12.3.0) (2022-12-07)
+
+
+### Features
+
+* Upgrade to node v16 ([#43](https://github.com/expediagroup/steerage/issues/43)) ([2dc36f7](https://github.com/expediagroup/steerage/commit/2dc36f7b68112a126abb612805e272f1c97b8518))
+
 # [12.2.0](https://github.com/expediagroup/steerage/compare/v12.1.3...v12.2.0) (2022-12-06)
 
 
