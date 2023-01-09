@@ -1,3 +1,10 @@
+## [12.3.2](https://github.com/expediagroup/steerage/compare/v12.3.1...v12.3.2) (2023-01-09)
+
+
+### Bug Fixes
+
+* bump json5 from 2.2.1 to 2.2.3 ([#47](https://github.com/expediagroup/steerage/issues/47)) ([f0796f9](https://github.com/expediagroup/steerage/commit/f0796f9af8bdeff26318e5456826f556a85f33e6))
+
 ## [12.3.1](https://github.com/expediagroup/steerage/compare/v12.3.0...v12.3.1) (2022-12-09)
 
 
