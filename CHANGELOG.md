@@ -1,3 +1,10 @@
+# [12.4.0](https://github.com/expediagroup/steerage/compare/v12.3.2...v12.4.0) (2023-02-09)
+
+
+### Features
+
+* Updating some dependencies ([#59](https://github.com/expediagroup/steerage/issues/59)) ([7567558](https://github.com/expediagroup/steerage/commit/756755860b5c295f6d65319ca5d797fa46a5d416))
+
 ## [12.3.2](https://github.com/expediagroup/steerage/compare/v12.3.1...v12.3.2) (2023-01-09)
 
 
