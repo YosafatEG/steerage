@@ -1,3 +1,11 @@
+# [12.4.0](https://github.com/YosafatEG/steerage/compare/v12.3.2...v12.4.0) (2023-02-14)
+
+
+### Features
+
+* modifying order ([#9](https://github.com/YosafatEG/steerage/issues/9)) ([3eeba24](https://github.com/YosafatEG/steerage/commit/3eeba249fd536bd21de56e63f5729c4a64bf744d))
+* modifying order 3 ([#11](https://github.com/YosafatEG/steerage/issues/11)) ([70e57e6](https://github.com/YosafatEG/steerage/commit/70e57e62643948d277b1f63285f0ffc3eef7c244))
+
 ## [12.3.2](https://github.com/expediagroup/steerage/compare/v12.3.1...v12.3.2) (2023-01-09)
 
 
