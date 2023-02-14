@@ -1,3 +1,10 @@
+## [12.4.1](https://github.com/expediagroup/steerage/compare/v12.4.0...v12.4.1) (2023-02-14)
+
+
+### Bug Fixes
+
+* Altering the order of semantic release config file to have it correct ([#66](https://github.com/expediagroup/steerage/issues/66)) ([966caf5](https://github.com/expediagroup/steerage/commit/966caf52e7689dbd7149aa7f5bce8432f1af7df1))
+
 # [12.4.0](https://github.com/expediagroup/steerage/compare/v12.3.2...v12.4.0) (2023-02-09)
 
 
