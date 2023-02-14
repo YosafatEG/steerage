@@ -5,7 +5,7 @@
   "bugs": "http://github.com/expediagroup/steerage/issues",
   "repository": {
     "type": "git",
-    "url": "git://github.com/expediagroup/steerage.git"
+    "url": "https://github.com/YosafatEG/steerage"
   },
   "license": "MIT",
   "author": "Trevor Livingston <tlivings@gmail.com>",
