@@ -1,3 +1,35 @@
+# 1.0.0 (2023-02-14)
+
+
+### Bug Fixes
+
+* bump json5 from 2.2.1 to 2.2.3 ([#47](https://github.com/YosafatEG/steerage/issues/47)) ([f0796f9](https://github.com/YosafatEG/steerage/commit/f0796f9af8bdeff26318e5456826f556a85f33e6))
+* bump marked and semantic-release ([#46](https://github.com/YosafatEG/steerage/issues/46)) ([c5b4454](https://github.com/YosafatEG/steerage/commit/c5b4454d14b094cf3a5668f5ee257048bcdf334c))
+* **deps:** Bump dot-prop from 4.2.0 to 5.2.0 ([#26](https://github.com/YosafatEG/steerage/issues/26)) ([b17ff63](https://github.com/YosafatEG/steerage/commit/b17ff63e94bef4cb08399e02be92f3aa0e0b4bb0))
+* explicitly force determination 6.0.1 ([#39](https://github.com/YosafatEG/steerage/issues/39)) ([5c6268b](https://github.com/YosafatEG/steerage/commit/5c6268b57f3dee72ff9e43063ed0b18a43dd8e24))
+* readme change to test semantic release ([#34](https://github.com/YosafatEG/steerage/issues/34)) ([971559b](https://github.com/YosafatEG/steerage/commit/971559b167008645e32a36dd423bfb42570ea0fa))
+* **revert:** "upgrade @vrbo/determination to V6.0.0" ([637333e](https://github.com/YosafatEG/steerage/commit/637333e430baea57da73556f1900f33c07b3d6c3))
+* update readme to test actions ([0ee885f](https://github.com/YosafatEG/steerage/commit/0ee885fe97565bc9df31c226ca5884ee3f4da90b))
+
+
+### Features
+
+* empty commit to trigger release pipeline ([#44](https://github.com/YosafatEG/steerage/issues/44)) ([795b1d2](https://github.com/YosafatEG/steerage/commit/795b1d26b74b0e322c3e36ab99555a011607896a))
+* exposes overrides and defaults from determination ([#33](https://github.com/YosafatEG/steerage/issues/33)) ([07b1f0b](https://github.com/YosafatEG/steerage/commit/07b1f0b32d71bbcdf1ae586d764d5c3f87ad3f7a))
+* Revert changes from 11.0.1 ([0e785d1](https://github.com/YosafatEG/steerage/commit/0e785d16fc5655b8f33ab95b1d6f357b9c1c3c6e))
+* Update to require Hapi v20; Update dependencies; ([#28](https://github.com/YosafatEG/steerage/issues/28)) ([912897c](https://github.com/YosafatEG/steerage/commit/912897c938d4fa020caa0448563ed9ee415a7e67))
+* upgrade @vrbo/determination to V6.0.0 ([#32](https://github.com/YosafatEG/steerage/issues/32)) ([d944eb1](https://github.com/YosafatEG/steerage/commit/d944eb1029f88e4e766d50cbb73b921583c056b8))
+* Upgrade to node v16 ([#43](https://github.com/YosafatEG/steerage/issues/43)) ([2dc36f7](https://github.com/YosafatEG/steerage/commit/2dc36f7b68112a126abb612805e272f1c97b8518))
+
+
+### BREAKING CHANGES
+
+* This updates @vrbo/determination from the range `^4.0.0` to
+`^6.0.0`. Please validate your dependencies on this can use this version and update as needed.
+
+Co-authored-by: aaestrada <v-aaestrada@expediagroup.com>
+* The Hapi peer dependency has been changed from `>=19` to `>=20`. Please install Hapi v20 to use this version of Steerage.
+
 ## [12.3.2](https://github.com/expediagroup/steerage/compare/v12.3.1...v12.3.2) (2023-01-09)
 
 
