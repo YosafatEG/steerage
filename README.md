@@ -1,5 +1,8 @@
 ![](https://github.com/ExpediaGroup/steerage/workflows/Node_CI/badge.svg)
 
+# :warning: **Deprecation Notice** :warning:
+This package is now deprecated and will not receive any updates in the future.
+
 # steerage
 
 Plugin for configuring and composing [Hapi](http://hapijs.com) servers through a configuration file or manifest.
